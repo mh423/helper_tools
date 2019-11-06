@@ -1,4 +1,5 @@
 '''
+COPY
 REV 002: initial setup
 
 AIM: Summarize in a table the maps contained by a Euronav-disk (using a python script in a windows computer)
